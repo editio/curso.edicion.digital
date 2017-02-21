@@ -2,7 +2,7 @@
 
 #### *Naukowa edycja cyfrowa*  (2016/17)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl)
 
-<img src="../slides/imagenes/logo_UWr_ang.png" width="50%">
+<img src="https://raw.githubusercontent.com/editio/slides/gh-pages/imagenes/logo_UWr_ang.png" width="50%">
 
 ### Contenido del programa:
 
