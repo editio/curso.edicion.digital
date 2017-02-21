@@ -30,7 +30,7 @@
 
 ### Bibliografía y presentaciones
 
-- Allés Torrent, S., “[Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT](https://academiccommons.columbia.edu/download/fedora_content/download/ac:189048/CONTENT/5.Insula-822-18-21.pdf),”* Insula. Revista de Letras y Ciencias Humanas*, 822, 2015, pp. 18-21.
+- Allés Torrent, S., “[Edición digital y algunas tecnologías aliadas: codificación TEI y transformaciones XSLT](https://academiccommons.columbia.edu/download/fedora_content/download/ac:189048/CONTENT/5.Insula-822-18-21.pdf),” *Insula. Revista de Letras y Ciencias Humanas*, 822, 2015, pp. 18-21.
 
 - Burnard L. et alii (eds.), *[Electronic textual editing](http://www.tei-c.org/About/Archive_new/ETE/Preview/)*, New York, Modern Language Association of America, 2006.
 
@@ -50,7 +50,7 @@
 
 - Spence P., "[Edición académica en la era digital: modelos, difusión y proceso de investigación](http://revistes.uab.cat/anuariolopedevega/article/view/v20-spence/pdf)", *Anuario Lope de Vega*, 20, 2014, pp. 47-83.
 
-- Siemens R, Schreibman S. (ed.), [A Companion to Digital Literary Studies](http://www.digitalhumanities.org/companionDLS), Oxford, Blackwell, 2008.
+- Siemens R, Schreibman S. (ed.), *[A Companion to Digital Literary Studies](http://www.digitalhumanities.org/companionDLS)*, Oxford, Blackwell, 2008.
 
 - TEI Consortium. P5: [Guidelines for Electronic Text Encoding and Interchange](http://www.tei-c.org/release/doc/tei-p5-doc/en/html).
 
