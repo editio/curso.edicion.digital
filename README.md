@@ -2,7 +2,7 @@
 
 #### *Naukowa edycja cyfrowa*  (2016/17)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl)
 
-<img src="https://raw.githubusercontent.com/editio/slides/gh-pages/imagenes/logo_UWr_ang.png" width="50%">
+<img src="https://raw.githubusercontent.com/editio/slides/gh-pages/imagenes/logo_UWr_ang.png" width="40%">
 
 ### Contenido del programa:
 
@@ -60,7 +60,7 @@ Más referencias y páginas con diversos materiales se encuentran enlazadas en l
 
 Se irán añadiendo en este repositorio o enlazando los materiales con los que trabajaremos. 
 
-1. Ejercicio de codificación de un soneto. 
+1. [Ejercicio de codificación de un soneto](https://github.com/editio/slides/tree/gh-pages/workshop/materials/Exercise-1-Lope-Soneto). 
 2. Ejercicio de normalización. 
 3. Ejercicio de codificación de variantes.
 4. Ejercicio de codificación de nombres y lugares.
