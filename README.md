@@ -62,7 +62,7 @@ Más referencias y páginas con diversos materiales se encuentran enlazadas en l
 
 Se irán añadiendo en este repositorio o enlazando los materiales con los que trabajaremos. 
 
-1. [Ejercicio de codificación de un soneto](https://github.com/editio/slides/tree/gh-pages/workshop/materials). 
+1. [Ejercicio de codificación de un soneto](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-1-Lope-Soneto). 
 2. Ejercicio de normalización. 
 3. Ejercicio de codificación de variantes.
 4. Ejercicio de codificación de nombres y lugares.
@@ -70,4 +70,4 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 
 ### Evaluación
 
-Se basarrá en un test de competencias generales y en el proyecto individual de edición (modelo, transcripción y codificación)
+Se basará en un test de competencias generales y en el proyecto individual de edición (modelo, transcripción y codificación)
