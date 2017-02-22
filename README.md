@@ -62,7 +62,7 @@ Más referencias y páginas con diversos materiales se encuentran enlazadas en l
 
 Se irán añadiendo en este repositorio o enlazando los materiales con los que trabajaremos. 
 
-1. [Ejercicio de codificación de un soneto](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-1-Lope-Soneto). 
+1. [Ejercicio de codificación de un soneto](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-01-Lope-Soneto). 
 2. Ejercicio de normalización. 
 3. Ejercicio de codificación de variantes.
 4. Ejercicio de codificación de nombres y lugares.
