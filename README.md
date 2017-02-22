@@ -52,6 +52,8 @@
 
 - Spence P., "[Edición académica en la era digital: modelos, difusión y proceso de investigación](http://revistes.uab.cat/anuariolopedevega/article/view/v20-spence/pdf)", *Anuario Lope de Vega*, 20, 2014, pp. 47-83.
 
+- Schreibman S., Siemens R., Unsworth J., [*A Companion to Digital Humanities*](http://www.digitalhumanities.org/companion), Oxford,  Blackwell, 2004.
+
 - Siemens R, Schreibman S. (ed.), *[A Companion to Digital Literary Studies](http://www.digitalhumanities.org/companionDLS)*, Oxford, Blackwell, 2008.
 
 - TEI Consortium. P5: [Guidelines for Electronic Text Encoding and Interchange](http://www.tei-c.org/release/doc/tei-p5-doc/en/html).
