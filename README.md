@@ -44,6 +44,8 @@
 
 - Losada Palenzuela J.L., [Introduction to Digital Scholarly Editions. Terminology, examples, evaluation, reference model](http://editio.github.io/slides/editions), 2016.
 
+- Losada Palenzuela, J.L., “[Las fronteras del canon: *distant reading*](http://corpus.hypotheses.org/271)”, *Canon y corpus. Sobre el concepto de clásicos en la literatura*, Hypotheses. Centre for Open Electronic Publishing (Cléo), 29.07.2016. 
+
 - Pérez Priego M.A., *La edición de textos*, Madrid, Editorial Síntesis, 1997.
 
 - Sahle P. et alii, [*Criterios para la reseña de ediciones digitales académicas (EDA)*](http://www.i-d-e.de/publikationen/weitereschriften/criterios-version-1-1/), Institut für Dokumentologie und Editorik, version 1.1   
@@ -60,8 +62,12 @@ Más referencias y páginas con diversos materiales se encuentran enlazadas en l
 
 Se irán añadiendo en este repositorio o enlazando los materiales con los que trabajaremos. 
 
-1. [Ejercicio de codificación de un soneto](https://github.com/editio/slides/tree/gh-pages/workshop/materials/Exercise-1-Lope-Soneto). 
+1. [Ejercicio de codificación de un soneto](https://github.com/editio/slides/tree/gh-pages/workshop/materials). 
 2. Ejercicio de normalización. 
 3. Ejercicio de codificación de variantes.
 4. Ejercicio de codificación de nombres y lugares.
 5. ...
+
+### Evaluación
+
+Se basarrá en un test de competencias generales y en el proyecto individual de edición (modelo, transcripción y codificación)
