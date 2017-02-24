@@ -72,6 +72,11 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 4. Ejercicio de codificación de nombres y lugares.
 5. ...
 
+### Programa
+
+Usaremos el editor [oXygen XML Editor Version 17.1](http://www.oxygenxml.com/xml_editor/software_archive_editor.html) para codificar los textos. Se encuentra ya instalado en la sala de ordenadores.  
+
+
 ### Evaluación
 
 Se basará en un test de competencias generales y en el proyecto individual de edición (modelo, transcripción y codificación)
