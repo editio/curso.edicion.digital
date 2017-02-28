@@ -70,9 +70,7 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 2. Ejercicio de normalización. 
 3. Ejercicio de codificación de variantes.
 4. Ejercicio de codificación de nombres y lugares.
-
-
-1. Enlace a *[El Discreto](http://nbn-resolving.de/urn:nbn:de:hebis:30-1129898)*, Amsterdam, 1665.   
+5. Enlace a *[El Discreto](http://nbn-resolving.de/urn:nbn:de:hebis:30-1129898)*, Amsterdam, 1665.   
 
 ### Programa
 
