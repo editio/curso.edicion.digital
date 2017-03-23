@@ -6,27 +6,27 @@
 
 ### Contenido del programa:
 
-- Introducción a las humanidades digitales.
+- Introducción a las humanidades digitales.
 
-- Nociones básicas de edición crítica/documental/académica.
+- Nociones básicas de edición crítica/documental/académica.
 
 - *Scholarly Digital Editions*: *case studies*.
 
-- Modelo de referencia para la edición digital.
+- Modelo de referencia para la edición digital.
 
 - Los lenguajes de marcado y XML.
 
-- Bases de la codificación con TEI (*Text Encoding Iniciative*).
+- Bases de la codificación con TEI (*Text Encoding Iniciative*).
 
 - TEI-Guidelines.
 
-- Contenido: transcripción con TEI/XML.
+- Contenido: transcripción con TEI/XML.
 
 - Estructura: schema.
 
-- Información: metadatos y teiHeader.
+- Información: metadatos y teiHeader.
 
-- Representación: xslt, css, html.
+- Representación: xslt, css, html.
 
 ### Bibliografía y presentaciones
 
@@ -34,7 +34,7 @@
 
 - Burnard L. et alii (eds.), *[Electronic textual editing](http://www.tei-c.org/About/Archive_new/ETE/Preview/)*, New York, Modern Language Association of America, 2006.
 
-- Burnard L., *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](http://books.openedition.org/oep/426)*, Marseille, OpenEdition Press (Encyclopédie numérique, n° 3), 2014.
+- Burnard L., *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](http://books.openedition.org/oep/426)*, Marseille, OpenEdition Press (Encyclopédie numérique, n° 3), 2014.
    
 - Driscoll, M.J., Pierazzo, E. (Eds.), *[Digital Scholarly Editing: Theories and Practices](http://www.openbookpublishers.com/product/483)*, Open Book Publishers, 2016. 
  
@@ -48,7 +48,7 @@
 
 - Losada Palenzuela, J.L., “[Las fronteras del canon: *distant reading*](http://corpus.hypotheses.org/271)”, *Canon y corpus. Sobre el concepto de clásicos en la literatura*, Hypotheses. Centre for Open Electronic Publishing (Cléo), 29.07.2016. 
 
-- Pérez Priego M.A., *La edición de textos*, Madrid, Editorial Síntesis, 1997.
+- Pérez Priego M.A., *La edición de textos*, Madrid, Editorial Síntesis, 1997.
 
 - Sahle P. et alii, [*Criterios para la reseña de ediciones digitales académicas (EDA)*](http://www.i-d-e.de/publikationen/weitereschriften/criterios-version-1-1/), Institut für Dokumentologie und Editorik, version 1.1   
 
@@ -69,8 +69,8 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 · Getting started with oXygen (Burnard L.): [ejercicio práctico](http://tei.it.ox.ac.uk/Talks/2014-07-dhoxss-tei/Exercises/ex-1-oxygen.pdf)
 
 1. [Ejercicio de codificación de un soneto](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-01-Lope-Soneto). 
-2. Ejercicio de normalización. 
-3. Ejercicio de codificación de variantes.
+2. [Ejercicio de normalización](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-02-Lope-Soneto-Normalization). 
+3. [Ejercicio de codificación de variantes](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-03-Lope-Readings).
 4. Ejercicio de codificación de nombres y lugares.
 5. Enlace a *[El Discreto](http://nbn-resolving.de/urn:nbn:de:hebis:30-1129898)*, Amsterdam, 1665.  
     - [Ejemplo](http://editio.github.io/manual/p-ej/discreto-estructura.html) del análisis de su estructura
