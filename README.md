@@ -35,8 +35,7 @@
 - Burnard L. et alii (eds.), *[Electronic textual editing](http://www.tei-c.org/About/Archive_new/ETE/Preview/)*, New York, Modern Language Association of America, 2006.
 
 - Burnard L., *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](http://books.openedition.org/oep/426)*, Marseille, OpenEdition Press (Encyclopédie numérique, n° 3), 2014.
-    - Getting started with oXygen ([practice exercise](http://tei.it.ox.ac.uk/Talks/2014-07-dhoxss-tei/Exercises/ex-1-oxygen.pdf))
-
+   
 - Driscoll, M.J., Pierazzo, E. (Eds.), *[Digital Scholarly Editing: Theories and Practices](http://www.openbookpublishers.com/product/483)*, Open Book Publishers, 2016. 
  
 - Pierazzo E., *Digital Scholarly Editing*, Theories, Models and Methods, Ashgate Publishing, 2015. [available on preprint](https://hal.archives-ouvertes.fr/hal-01182162)
@@ -66,6 +65,8 @@ Más referencias y páginas con diversos materiales se encuentran enlazadas en l
 ### Materiales
 
 Se irán añadiendo en este repositorio o enlazando los materiales con los que trabajaremos. 
+
+· Getting started with oXygen (Burnard L.): [ejercicio práctico](http://tei.it.ox.ac.uk/Talks/2014-07-dhoxss-tei/Exercises/ex-1-oxygen.pdf)
 
 1. [Ejercicio de codificación de un soneto](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-01-Lope-Soneto). 
 2. Ejercicio de normalización. 
