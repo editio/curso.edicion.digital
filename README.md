@@ -35,6 +35,7 @@
 - Burnard L. et alii (eds.), *[Electronic textual editing](http://www.tei-c.org/About/Archive_new/ETE/Preview/)*, New York, Modern Language Association of America, 2006.
 
 - Burnard L., *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](http://books.openedition.org/oep/426)*, Marseille, OpenEdition Press (Encyclopédie numérique, n° 3), 2014.
+    - Getting started with oXygen ([practice exercise](http://tei.it.ox.ac.uk/Talks/2014-07-dhoxss-tei/Exercises/ex-1-oxygen.pdf))
 
 - Driscoll, M.J., Pierazzo, E. (Eds.), *[Digital Scholarly Editing: Theories and Practices](http://www.openbookpublishers.com/product/483)*, Open Book Publishers, 2016. 
  
