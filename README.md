@@ -48,6 +48,9 @@
 
 - Losada Palenzuela, J.L., “[Las fronteras del canon: *distant reading*](http://corpus.hypotheses.org/271)”, *Canon y corpus. Sobre el concepto de clásicos en la literatura*, Hypotheses. Centre for Open Electronic Publishing (Cléo), 29.07.2016. 
 
+- Losada Palenzuela, J.L. [Marginal annotations in books.
+Interpretation, encoding, publication](http://editio.github.io/slides/marginalia-en), 2016.
+
 - Pérez Priego M.A., *La edición de textos*, Madrid, Editorial Síntesis, 1997.
 
 - Sahle P. et alii, [*Criterios para la reseña de ediciones digitales académicas (EDA)*](http://www.i-d-e.de/publikationen/weitereschriften/criterios-version-1-1/), Institut für Dokumentologie und Editorik, version 1.1   
