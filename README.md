@@ -77,7 +77,9 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 
 ### Programa
 
-Usaremos el editor [oXygen XML Editor Version 17.1](http://www.oxygenxml.com/xml_editor/software_archive_editor.html) para codificar los textos. Se encuentra ya instalado en la sala de ordenadores.  
+Usaremos el editor (de pago) [oXygen XML Editor Version 17.1](http://www.oxygenxml.com/xml_editor/software_archive_editor.html) para codificar los textos. Se encuentra ya instalado en la sala de ordenadores.  
+
+Otros editores (gratuitos):  [Atom](https://atom.io) (mac) con *packages*: [linter-autocomplete-jing](https://github.com/aerhard/linter-autocomplete-jing); [atomic-tei](https://github.com/neelsmith/atomic-tei); y [Notepad++](https://notepad-plus-plus.org) (windows)
 
 
 ### Evaluación
