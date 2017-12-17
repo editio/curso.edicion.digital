@@ -75,7 +75,8 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 2. [Ejercicio de normalización](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-02-Lope-Soneto-Normalization). 
 3. [Ejercicio de codificación de variantes](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-03-Lope-Readings).
 4. Ejercicio de codificación de nombres y lugares.
-5. Enlace a *[El Discreto](http://nbn-resolving.de/urn:nbn:de:hebis:30-1129898)*, Amsterdam, 1665.  
+5. [Ejercicio de codificación de un soneto acróstico (<i>rendition</i>)](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-05-Soneto-Acrostico).
+6. Enlace a *[El Discreto](http://nbn-resolving.de/urn:nbn:de:hebis:30-1129898)*, Amsterdam, 1665.  
     - [Ejemplo](http://editio.github.io/manual/p-ej/discreto-estructura.html) del análisis de su estructura
 
 ### Programa
