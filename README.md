@@ -88,4 +88,4 @@ Otros editores (gratuitos):  [Atom](https://atom.io) (OS X, Windows, Linux) con 
 
 ### Evaluación
 
-Se basará en un test de competencias generales y en el proyecto individual de edición (modelo, transcripción y codificación)
+Se basará en un [test de competencias generales](https://coming_soon) y en el proyecto individual de edición (modelo, transcripción y codificación)
