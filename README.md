@@ -1,6 +1,6 @@
 # Curso de introducción a la edición (crítica) digital.
 
-#### *Naukowa edycja cyfrowa*  (2017/18)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=21-FL-H-S2-E2-NEdCy&lang=en)
+#### *Naukowa edycja cyfrowa*  (2019/20)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=21-FL-H-S2-E2-NEdCy&lang=en)
 
 <img src="https://raw.githubusercontent.com/editio/slides/gh-pages/imagenes/logo_UWr_ang.png" width="40%">
 
