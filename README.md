@@ -40,7 +40,7 @@
  
 - Pierazzo E., *Digital Scholarly Editing*, Theories, Models and Methods, Ashgate Publishing, 2015. [available on preprint](https://hal.archives-ouvertes.fr/hal-01182162)
 
-- Losada Palenzuela J.L., [Humanidades digitales. Breve introducción](http://editio.github.io/slides/dh-intro), 2017.
+- Losada Palenzuela J.L., [Humanidades digitales. Breve introducción](http://editio.github.io/presentations/dh-intro), 2017.
 
 - Losada Palenzuela J.L., [Markup, XML, TEI. Character, structure, guidelines](http://editio.github.io/slides/xml-tei), 2016.
 
