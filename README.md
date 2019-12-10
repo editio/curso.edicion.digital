@@ -48,6 +48,8 @@
 
 - Losada Palenzuela, J.L., “[Las fronteras del canon: *distant reading*](http://corpus.hypotheses.org/271)”, *Canon y corpus. Sobre el concepto de clásicos en la literatura*, Hypotheses. Centre for Open Electronic Publishing (Cléo), 29.07.2016. 
 
+- Losada Palenzuela, J.L., “[Named Entities. Encoding Names, Persons, Places and Dates](http://editio.github.io/presentations/named-entities.html)”, 2019.
+
 - Losada Palenzuela, J.L. [Marginal annotations in books.
 Interpretation, encoding, publication](http://editio.github.io/slides/marginalia-en), 2016.
 
