@@ -35,9 +35,9 @@
 - Burnard L. et alii (eds.), *[Electronic textual editing](http://www.tei-c.org/About/Archive_new/ETE/Preview/)*, New York, Modern Language Association of America, 2006.
 
 - Burnard L., *[What is the Text Encoding Initiative? How to add intelligent markup to digital resources](http://books.openedition.org/oep/426)*, Marseille, OpenEdition Press (Encyclopédie numérique, n° 3), 2014.
-   
-- Driscoll, M.J., Pierazzo, E. (Eds.), *[Digital Scholarly Editing: Theories and Practices](http://www.openbookpublishers.com/product/483)*, Open Book Publishers, 2016. 
- 
+
+- Driscoll, M.J., Pierazzo, E. (Eds.), *[Digital Scholarly Editing: Theories and Practices](http://www.openbookpublishers.com/product/483)*, Open Book Publishers, 2016.
+
 - Pierazzo E., *Digital Scholarly Editing*, Theories, Models and Methods, Ashgate Publishing, 2015. [available on preprint](https://hal.archives-ouvertes.fr/hal-01182162)
 
 - Losada Palenzuela J.L., [Humanidades digitales. Breve introducción](http://editio.github.io/presentations/dh-intro), 2017.
@@ -46,7 +46,7 @@
 
 - Losada Palenzuela J.L., [Introduction to Digital Scholarly Editions. Terminology, examples, evaluation, reference model](http://editio.github.io/slides/editions), 2016.
 
-- Losada Palenzuela, J.L., “[Las fronteras del canon: *distant reading*](http://corpus.hypotheses.org/271)”, *Canon y corpus. Sobre el concepto de clásicos en la literatura*, Hypotheses. Centre for Open Electronic Publishing (Cléo), 29.07.2016. 
+- Losada Palenzuela, J.L., “[Las fronteras del canon: *distant reading*](http://corpus.hypotheses.org/271)”, *Canon y corpus. Sobre el concepto de clásicos en la literatura*, Hypotheses. Centre for Open Electronic Publishing (Cléo), 29.07.2016.
 
 - Losada Palenzuela, J.L., “[Named Entities. Encoding Names, Persons, Places and Dates](http://editio.github.io/presentations/named-entities.html)”, 2019.
 
@@ -69,12 +69,12 @@ Más referencias y páginas con diversos materiales se encuentran enlazadas en l
 
 ### Materiales
 
-Se irán añadiendo en este repositorio o enlazando los materiales con los que trabajaremos. 
+Se irán añadiendo en este repositorio o enlazando los materiales con los que trabajaremos.
 
 · Getting started with oXygen (Burnard L.): [ejercicio práctico](http://tei.it.ox.ac.uk/Talks/2014-07-dhoxss-tei/Exercises/ex-1-oxygen.pdf)
 
-1. [Ejercicio de codificación de un soneto](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-01-Lope-Soneto). 
-2. [Ejercicio de normalización](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-02-Lope-Soneto-Normalization). 
+1. [Ejercicio de codificación de un soneto](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-01-Lope-Soneto).
+2. [Ejercicio de normalización](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-02-Lope-Soneto-Normalization).
 3. [Ejercicio de codificación de variantes](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-03-Lope-Readings).
 4. Ejercicio de codificación de nombres y lugares.
 5. [Ejercicio de codificación de un soneto acróstico (<i>rendition</i>)](https://github.com/editio/TEI-Workshop/tree/master/materials/Exercise-05-Soneto-Acrostico).
@@ -85,8 +85,22 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 
 Usaremos el editor (de pago) [oXygen XML Editor Version 17.1](http://www.oxygenxml.com/xml_editor/software_archive_editor.html) para codificar los textos. Se encuentra ya instalado en la sala de ordenadores.  
 
-Otros editores (gratuitos):  [Atom](https://atom.io) (OS X, Windows, Linux) con *packages*: [linter-autocomplete-jing](https://github.com/aerhard/linter-autocomplete-jing); [atomic-tei](https://github.com/neelsmith/atomic-tei); y [Notepad++](https://notepad-plus-plus.org) (Windows).
+#### Atom
 
+Es posible editar XML con cualquier editor de texto plano, como los instalados por defecto en algunos ordenadores: TextEdit (Mac) o Notepad (Windows). Otros editores avanzados como [Notepad++](https://notepad-plus-plus.org) (Windows) o [Sublime](https://www.sublimetext.com) (Mac, Windows, Linux) ayudan en la representación visual, pero carecen de ciertas funciones que facilitan la codificación de XML/TEI.
+
+Una alternativa gratuita a oXygen es el editor [Atom](https://atom.io) (Mac, Windows, Linux). Para tener funciones similares (autocompletado, validación contra un esquema, sugerencias de errores) se deben tener instalados los siguientes *packages*:
+
+- [linter-autocomplete-jing](https://github.com/aerhard/linter-autocomplete-jing)
+- [tei-framework](https://atom.io/packages/tei-framework)
+- [linter](https://atom.io/packages/linter)
+- [linter-ui-default](https://atom.io/packages/linter-ui-default)
+
+Otros paquetes opcionales
+
+- [atom-beautify](https://atom.io/packages/atom-beautify)
+- [atom-wrap-in-tag](https://atom.io/packages/atom-wrap-in-tag)
+- [double-tag](https://atom.io/packages/double-tag)
 
 ### Evaluación
 
