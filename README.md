@@ -1,6 +1,6 @@
 # Curso de introducción a la edición (crítica) digital.
 
-#### *Naukowa edycja cyfrowa*  (2019/20)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=21-FL-H-S2-E2-NEdCy&lang=en)
+#### *Naukowa edycja cyfrowa*  (2020/21)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=21-FL-H-S2-E2-NEdCy&lang=en)
 
 <img src="https://raw.githubusercontent.com/editio/slides/gh-pages/imagenes/logo_UWr_ang.png" width="40%">
 
@@ -83,7 +83,7 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 
 ### Programa
 
-Usaremos el editor (de pago) [oXygen XML Editor Version 17.1](http://www.oxygenxml.com/xml_editor/software_archive_editor.html) para codificar los textos. Se encuentra ya instalado en la sala de ordenadores.  
+Usaremos el editor (de pago) [oXygen XML Editor Version 17.1](https://www.oxygenxml.com/xml_editor/software_archive_editor_eol.html) para codificar los textos.  
 
 #### Atom
 
