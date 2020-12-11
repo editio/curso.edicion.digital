@@ -107,7 +107,7 @@ Otros paquetes opcionales
 
 #### Visual Studio Code
 
-[Visual Studio Code](https://code.visualstudio.com). Para añadir las funciones de validación de esquema, lenguaje de consulta xpath, transformación con xslt se deben instalar las siguientes extensiones (pueden instalarse desde la aplicación):
+[Visual Studio Code](https://code.visualstudio.com) (Mac, Windows, Linux). Para añadir las funciones de validación de esquema, lenguaje de consulta xpath, transformación con xslt se deben instalar las siguientes extensiones (pueden instalarse desde la aplicación):
 
 -[Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 
