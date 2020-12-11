@@ -85,22 +85,35 @@ Se irán añadiendo en este repositorio o enlazando los materiales con los que t
 
 Usaremos el editor (de pago) [oXygen XML Editor Version 17.1](https://www.oxygenxml.com/xml_editor/software_archive_editor_eol.html) para codificar los textos.  
 
+En realidad es posible editar XML con cualquier editor de texto plano, como los instalados por defecto en algunos ordenadores: TextEdit (Mac) o Notepad (Windows). Otros editores avanzados como [Notepad++](https://notepad-plus-plus.org) (Windows) o [Sublime](https://www.sublimetext.com) (Mac, Windows, Linux) ayudan en la representación visual, pero carecen de ciertas funciones que facilitan la codificación de XML/TEI. A continuación apunto otros dos editores avanzados de código que pueden (una vez instalados algunos extras) servirnos (a nosotros) como sustitutos gratuitos a oXygen.
+
+
 #### Atom
 
-Es posible editar XML con cualquier editor de texto plano, como los instalados por defecto en algunos ordenadores: TextEdit (Mac) o Notepad (Windows). Otros editores avanzados como [Notepad++](https://notepad-plus-plus.org) (Windows) o [Sublime](https://www.sublimetext.com) (Mac, Windows, Linux) ayudan en la representación visual, pero carecen de ciertas funciones que facilitan la codificación de XML/TEI.
 
-Una alternativa gratuita a oXygen es el editor [Atom](https://atom.io) (Mac, Windows, Linux). Para tener funciones similares (autocompletado, validación contra un esquema, sugerencias de errores) se deben tener instalados los siguientes *packages*:
+[Atom](https://atom.io) (Mac, Windows, Linux). Para tener funciones similares (autocompletado, validación contra un esquema, sugerencias de errores, transformación) se deben tener instalados los siguientes *packages* (pueden instalarse desde la aplicación):
 
 - [linter-autocomplete-jing](https://github.com/aerhard/linter-autocomplete-jing)
 - [tei-framework](https://atom.io/packages/tei-framework)
 - [linter](https://atom.io/packages/linter)
 - [linter-ui-default](https://atom.io/packages/linter-ui-default)
+- [atom-xsltransform](https://atom.io/packages/atom-xsltransform) * Necesita descargar saxon
 
 Otros paquetes opcionales
 
 - [atom-beautify](https://atom.io/packages/atom-beautify)
 - [atom-wrap-in-tag](https://atom.io/packages/atom-wrap-in-tag)
 - [double-tag](https://atom.io/packages/double-tag)
+
+#### Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com). Para añadir las funciones de validación de esquema, lenguaje de consulta xpath, transformación con xslt se deben instalar las siguientes extensiones (pueden instalarse desde la aplicación):
+
+-[Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
+
+-[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+
+-[xslt-transform](https://marketplace.visualstudio.com/items?itemName=SvenAGN.xslt-transform) * Necesita descargar saxon
 
 ### Evaluación
 
