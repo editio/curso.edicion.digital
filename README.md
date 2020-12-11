@@ -97,7 +97,7 @@ En realidad es posible editar XML con cualquier editor de texto plano, como los 
 - [tei-framework](https://atom.io/packages/tei-framework)
 - [linter](https://atom.io/packages/linter)
 - [linter-ui-default](https://atom.io/packages/linter-ui-default)
-- [atom-xsltransform](https://atom.io/packages/atom-xsltransform) * Necesita descargar saxon
+- [atom-xsltransform](https://atom.io/packages/atom-xsltransform) + [saxon](https://sourceforge.net/projects/saxon/)
 
 Otros paquetes opcionales
 
@@ -109,11 +109,9 @@ Otros paquetes opcionales
 
 [Visual Studio Code](https://code.visualstudio.com) (Mac, Windows, Linux). Para añadir las funciones de validación de esquema, lenguaje de consulta xpath, transformación con xslt se deben instalar las siguientes extensiones (pueden instalarse desde la aplicación):
 
--[Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
-
--[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
-
--[xslt-transform](https://marketplace.visualstudio.com/items?itemName=SvenAGN.xslt-transform) * Necesita descargar saxon
+- [Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
+- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+- [xslt-transform](https://marketplace.visualstudio.com/items?itemName=SvenAGN.xslt-transform) + [saxon](https://sourceforge.net/projects/saxon/)
 
 ### Evaluación
 
