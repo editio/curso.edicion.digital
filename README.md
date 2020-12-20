@@ -1,6 +1,6 @@
 # Curso de introducción a la edición (crítica) digital.
 
-#### *Naukowa edycja cyfrowa*  (2020/21)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=21-FL-H-S2-E2-NEdCy&lang=en)
+#### *Naukowa edycja cyfrowa*  (2020/21)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=21-FH-S2-NauEdyCyf&callback=g_55f782e0)
 
 <img src="https://raw.githubusercontent.com/editio/slides/gh-pages/imagenes/logo_UWr_ang.png" width="40%">
 
@@ -87,9 +87,15 @@ Usaremos el editor (de pago) [oXygen XML Editor Version 17.1](https://www.oxygen
 
 En realidad es posible editar XML con cualquier editor de texto plano, como los instalados por defecto en algunos ordenadores: TextEdit (Mac) o Notepad (Windows). Otros editores avanzados como [Notepad++](https://notepad-plus-plus.org) (Windows) o [Sublime](https://www.sublimetext.com) (Mac, Windows, Linux) ayudan en la representación visual, pero carecen de ciertas funciones que facilitan la codificación de XML/TEI. A continuación apunto otros dos editores avanzados de código que pueden (una vez instalados algunos extras) servirnos (a nosotros) como sustitutos gratuitos a oXygen.
 
+#### Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com) (Mac, Windows, Linux). Para añadir las funciones de validación de esquema, lenguaje de consulta xpath, transformación con xslt se deben instalar las siguientes extensiones (pueden instalarse desde la aplicación):
+
+- [Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
+- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+- [xslt-transform](https://marketplace.visualstudio.com/items?itemName=SvenAGN.xslt-transform) + [saxon](https://sourceforge.net/projects/saxon/)
 
 #### Atom
-
 
 [Atom](https://atom.io) (Mac, Windows, Linux). Para tener funciones similares (autocompletado, validación contra un esquema, sugerencias de errores, transformación) se deben tener instalados los siguientes *packages* (pueden instalarse desde la aplicación):
 
@@ -104,14 +110,6 @@ Otros paquetes opcionales
 - [atom-beautify](https://atom.io/packages/atom-beautify)
 - [atom-wrap-in-tag](https://atom.io/packages/atom-wrap-in-tag)
 - [double-tag](https://atom.io/packages/double-tag)
-
-#### Visual Studio Code
-
-[Visual Studio Code](https://code.visualstudio.com) (Mac, Windows, Linux). Para añadir las funciones de validación de esquema, lenguaje de consulta xpath, transformación con xslt se deben instalar las siguientes extensiones (pueden instalarse desde la aplicación):
-
-- [Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
-- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
-- [xslt-transform](https://marketplace.visualstudio.com/items?itemName=SvenAGN.xslt-transform) + [saxon](https://sourceforge.net/projects/saxon/)
 
 ### Evaluación
 
