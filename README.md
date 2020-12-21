@@ -94,6 +94,7 @@ En realidad es posible editar XML con cualquier editor de texto plano, como los 
 - [Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 - [xslt-transform](https://marketplace.visualstudio.com/items?itemName=SvenAGN.xslt-transform) + [saxon](https://sourceforge.net/projects/saxon/)
+- [tei-publisher-vscode](https://marketplace.visualstudio.com/items?itemName=e-editiones.tei-publisher-vscode)
 
 #### Atom
 
