@@ -114,7 +114,7 @@ Otros paquetes opcionales
 
 ### Evaluación
 
-Se basará en un [test de competencias generales](https://forms.gle/1mka2ZL5d492CAxe7) y en el proyecto individual de edición (modelo, transcripción y codificación)
+Se basará en un [test de competencias generales](https://forms.gle/TCT8rpYAMJG1b77s8) y en el proyecto individual de edición (modelo, transcripción y codificación)
 
 ### Licencia de uso
 
