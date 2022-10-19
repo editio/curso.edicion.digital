@@ -1,6 +1,6 @@
 # Curso de introducción a la edición (crítica) digital.
 
-#### *Naukowa edycja cyfrowa*  (2020/21)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=21-FH-S2-NauEdyCyf&callback=g_55f782e0)
+#### *Naukowa edycja cyfrowa tekstów literackich*  (2022/23)  zob. sylabus w [USOS](https://usosweb.uni.wroc.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=21-SR-S2-oNECTL)
 
 <img src="https://raw.githubusercontent.com/editio/slides/gh-pages/imagenes/logo_UWr_ang.png" width="40%">
 
@@ -39,6 +39,8 @@
 - Driscoll, M.J., Pierazzo, E. (Eds.), *[Digital Scholarly Editing: Theories and Practices](http://www.openbookpublishers.com/product/483)*, Open Book Publishers, 2016.
 
 - Pierazzo E., *Digital Scholarly Editing*, Theories, Models and Methods, Ashgate Publishing, 2015. [available on preprint](https://hal.archives-ouvertes.fr/hal-01182162)
+
+- Losada Palenzuela J.L., _Digital Editions with TEI_, 2021 <http://phc.uni.wroc.pl/interreg/w/losada/>.
 
 - Losada Palenzuela J.L., [Humanidades digitales. Breve introducción](http://editio.github.io/presentations/dh-intro), 2017.
 
